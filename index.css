@@ -1,0 +1,66 @@
+.header {
+    width: 100%;
+    text-align: left;
+    height: 7rem;
+    padding: 0rem 5rem;
+    border-bottom: 0.1rem solid rgb(0, 0, 0);
+}
+.logo{
+    width: 15rem;
+    margin-top: 1rem;
+}  
+.ima{
+    width: 15rem;
+    margin-top: 1rem;
+}
+.botones{
+    font-size: 1.25rem;
+    width: 3rem;
+}
+.Computacion{
+    width: 100%;
+    height: 70rem;
+    padding-top: 1rem;
+}
+.titulo{
+    text-align: left;
+    font-size: 5rem;
+    padding-left: 5rem;
+}
+.sub{
+    text-align: left;
+    font-size: 3rem;
+    padding-left: 5rem;
+}
+.Cursos{
+    border-spacing: 5rem;
+    text-align: center;
+}
+.curso{
+    font-size: 3rem;
+}
+.imagenLaboratorio{
+    width: 87%;
+    font-size: 2rem;
+}
+.imagenesPrecnetaciones{
+    width: 85%;
+    font-size: 2rem;
+}
+.tituloPrecentacion{
+    width: 25%;
+    height: rem;
+    font-size: 2rem;
+}
+.listatemas{
+    font-size: 1.5rem;
+    padding-left: 5rem;
+}
+
+.piePagina{
+    border-top: 1px solid black;
+}
+.perfil{
+    font-size: 2rem;
+    padding-top: 2rem;
+}
